@@ -11,10 +11,10 @@ from lib.getui.igetui.template.igt_link_template import LinkTemplate
 from lib.getui.igt_push import IGeTui
 from lib.getui.igetui.igt_message import IGtSingleMessage
 
-app_id = 'Epo2omNkQb7DuIsFKALHU3'
-app_key = 'DxthNnRdwH9Tj0aNnAvnj8'
-master_sec = 'JIbUKV6FYiAg6OebEsXqr3'
-client_id = 'a481f21dbba2db69976c0b867353a81b'
+app_id = ''
+app_key = ''
+master_sec = ''
+client_id = ''
 api_url = 'http://sdk.open.api.igexin.com/apiex.htm'
 
 

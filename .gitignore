@@ -113,6 +113,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# commit
+# Pycharm
 .DS_Store
 .idea
+getui.md
